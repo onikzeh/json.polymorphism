@@ -1,4 +1,4 @@
-# json.maskpassword
+# json.polymorphism
 A sample project to show how to handle polymorphism while using json.
 Project uses Jackson JSON Processor.
 
